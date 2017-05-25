@@ -3,7 +3,7 @@ All the sources required to tangle code and craete html docs
 
 
 # Credits
-Credits to Ashay Maheshwari, IIIT Hyderabad to make and customize the literate tools for documentation.
+Credits to VLEAD, IIIT Hyderabad to make and customize the literate tools for documentation.
 
 # Changelog
 
